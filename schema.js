@@ -39,4 +39,4 @@ export const typeDefs = `#graphql
     title: String,
     platform: [String!]
   }
-`;
+`
